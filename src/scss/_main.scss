@@ -1,0 +1,22 @@
+section {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+
+  .main {
+    flex-grow: 1;
+  }
+}
+新增 src/scss/style.scss
+
+@use "./main";
+
+section {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+
+  .main {
+    flex-grow: 1;
+  }
+}
