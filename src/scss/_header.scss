@@ -1,16 +1,6 @@
 header {
   border-bottom: solid 1px var(--border-color);
 
-  .container {
-    width: 100%;
-    max-width: 90vw;
-    box-sizing: border-box;
-    height: 4rem;
-    margin: 0px auto;
-
-   padding-left: 2rem;
-   padding-right: 2rem;
-    
   .header-inner {
       height: 4rem;
       display: flex;
@@ -92,4 +82,3 @@ header {
     line-height: 1;
   }
 
-}
